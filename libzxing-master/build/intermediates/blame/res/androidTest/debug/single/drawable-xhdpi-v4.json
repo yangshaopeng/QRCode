@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "G:\\code\\github\\openSource\\QRCode\\libzxing-master\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\qr_code_bg.9.png",
+        "source": "G:\\code\\github\\openSource\\QRCode\\libzxing-master\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\qr_code_bg.9.png"
+    },
+    {
+        "merged": "G:\\code\\github\\openSource\\QRCode\\libzxing-master\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\shadow.png",
+        "source": "G:\\code\\github\\openSource\\QRCode\\libzxing-master\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\shadow.png"
+    },
+    {
+        "merged": "G:\\code\\github\\openSource\\QRCode\\libzxing-master\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\scan_line.png",
+        "source": "G:\\code\\github\\openSource\\QRCode\\libzxing-master\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\scan_line.png"
+    }
+]
